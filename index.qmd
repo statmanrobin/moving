@@ -1,11 +1,37 @@
 ---
 title: "Moving 'Sale'"
+format: 
+  html: 
+    lightbox: true
 ---
 
-This is a Quarto website.
+::: {layout-ncol=3}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![L-shaped Bar This is a GORGEOUS full bar. Sadly, we are downsizing and can’t fit it.](graphics/Bar.jpg){group="row1"} 
 
-```{r}
-1 + 1
-```
+![Desk/Art table - Large table/desk with storage underneath, some dings but can serve lots of purposes.](graphics/ArtTable.jpg){group="row1"} 
+
+![Queen Bed (with Headboard)](graphics/QueenBed.jpg){group="row1"} 
+
+![China Display Cabinet  -in great shape](graphics/China.jpg){group="row1"} 
+
+![Refrigerator (with top freezer)](graphics/Fridge.jpg){group="row1"} 
+
+
+![Lift Chair/Recliner - TChair plugs in and helps someone with mobility issues stand up. Originally expensive!  No longer needed](graphics/LiftChair.jpg){group="row1"} 
+
+![Antique Sofa (with two matching chairs) Set was a wedding present to Patti’s grandparents in 1918! Amazingly, all three are in great shape and very comfortable!](graphics/Sofa1.jpg){group="row1"}
+
+
+![Antique Chair 1](graphics/ChairGreen.jpg){group="row1"}
+
+![Antique Chair 2](graphics/ChairRed.jpg){group="row1"}
+
+![King Bed - Only 6 years old with infrequent use - in great shape](graphics/King.jpg){group="row1"} 
+
+![Green Sofa - low profile, very comfortable (matches green recliner)](graphics/GreenSofa.jpg){group="row1"} 
+
+![Green Recliner](graphics/GreenRecliner.jpg){group="row1"} 
+
+
+:::

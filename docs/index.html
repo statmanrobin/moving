@@ -20,41 +20,6 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for syntax highlighting */
-html { -webkit-text-size-adjust: 100%; }
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
-}
 </style>
 
 
@@ -76,6 +41,9 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-e31584831b205ffbb2d98406f31c2a5b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -171,12 +139,110 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </header>
 
 
-<p>This is a Quarto website.</p>
-<p>To learn more about Quarto websites visit <a href="https://quarto.org/docs/websites" class="uri">https://quarto.org/docs/websites</a>.</p>
-<div class="cell">
-<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="dv">1</span> <span class="sc">+</span> <span class="dv">1</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
-<div class="cell-output cell-output-stdout">
-<pre><code>[1] 2</code></pre>
+<div class="quarto-layout-panel" data-layout-ncol="3">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="graphics/Bar.jpg" class="lightbox" data-gallery="row1" title="L-shaped Bar This is a GORGEOUS full bar. Sadly, we are downsizing and can’t fit it."><img src="graphics/Bar.jpg" class="img-fluid figure-img" alt="L-shaped Bar This is a GORGEOUS full bar. Sadly, we are downsizing and can’t fit it."></a></p>
+<figcaption>L-shaped Bar This is a GORGEOUS full bar. Sadly, we are downsizing and can’t fit it.</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="graphics/ArtTable.jpg" class="lightbox" data-gallery="row1" title="Desk/Art table - Large table/desk with storage underneath, some dings but can serve lots of purposes."><img src="graphics/ArtTable.jpg" class="img-fluid figure-img" alt="Desk/Art table - Large table/desk with storage underneath, some dings but can serve lots of purposes."></a></p>
+<figcaption>Desk/Art table - Large table/desk with storage underneath, some dings but can serve lots of purposes.</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="graphics/QueenBed.jpg" class="lightbox" data-gallery="row1" title="Queen Bed (with Headboard)"><img src="graphics/QueenBed.jpg" class="img-fluid figure-img" alt="Queen Bed (with Headboard)"></a></p>
+<figcaption>Queen Bed (with Headboard)</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="graphics/China.jpg" class="lightbox" data-gallery="row1" title="China Display Cabinet -in great shape"><img src="graphics/China.jpg" class="img-fluid figure-img" alt="China Display Cabinet -in great shape"></a></p>
+<figcaption>China Display Cabinet -in great shape</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="graphics/Fridge.jpg" class="lightbox" data-gallery="row1" title="Refrigerator (with top freezer)"><img src="graphics/Fridge.jpg" class="img-fluid figure-img" alt="Refrigerator (with top freezer)"></a></p>
+<figcaption>Refrigerator (with top freezer)</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="graphics/LiftChair.jpg" class="lightbox" data-gallery="row1" title="Lift Chair/Recliner - TChair plugs in and helps someone with mobility issues stand up. Originally expensive! No longer needed"><img src="graphics/LiftChair.jpg" class="img-fluid figure-img" alt="Lift Chair/Recliner - TChair plugs in and helps someone with mobility issues stand up. Originally expensive! No longer needed"></a></p>
+<figcaption>Lift Chair/Recliner - TChair plugs in and helps someone with mobility issues stand up. Originally expensive! No longer needed</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="graphics/Sofa1.jpg" class="lightbox" data-gallery="row1" title="Antique Sofa (with two matching chairs) Set was a wedding present to Patti’s grandparents in 1918! Amazingly, all three are in great shape and very comfortable!"><img src="graphics/Sofa1.jpg" class="img-fluid figure-img" alt="Antique Sofa (with two matching chairs) Set was a wedding present to Patti’s grandparents in 1918! Amazingly, all three are in great shape and very comfortable!"></a></p>
+<figcaption>Antique Sofa (with two matching chairs) Set was a wedding present to Patti’s grandparents in 1918! Amazingly, all three are in great shape and very comfortable!</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="graphics/ChairGreen.jpg" class="lightbox" data-gallery="row1" title="Antique Chair 1"><img src="graphics/ChairGreen.jpg" class="img-fluid figure-img" alt="Antique Chair 1"></a></p>
+<figcaption>Antique Chair 1</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="graphics/ChairRed.jpg" class="lightbox" data-gallery="row1" title="Antique Chair 2"><img src="graphics/ChairRed.jpg" class="img-fluid figure-img" alt="Antique Chair 2"></a></p>
+<figcaption>Antique Chair 2</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="graphics/King.jpg" class="lightbox" data-gallery="row1" title="King Bed - Only 6 years old with infrequent use - in great shape"><img src="graphics/King.jpg" class="img-fluid figure-img" alt="King Bed - Only 6 years old with infrequent use - in great shape"></a></p>
+<figcaption>King Bed - Only 6 years old with infrequent use - in great shape</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="graphics/GreenSofa.jpg" class="lightbox" data-gallery="row1" title="Green Sofa - low profile, very comfortable (matches green recliner)"><img src="graphics/GreenSofa.jpg" class="img-fluid figure-img" alt="Green Sofa - low profile, very comfortable (matches green recliner)"></a></p>
+<figcaption>Green Sofa - low profile, very comfortable (matches green recliner)</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="graphics/GreenRecliner.jpg" class="lightbox" data-gallery="row1" title="Green Recliner"><img src="graphics/GreenRecliner.jpg" class="img-fluid figure-img" alt="Green Recliner"></a></p>
+<figcaption>Green Recliner</figcaption>
+</figure>
+</div>
+</div>
 </div>
 </div>
 
@@ -584,6 +650,38 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   });
   </script>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 
