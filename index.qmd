@@ -5,9 +5,9 @@ format:
     lightbox: true
 ---
 
-We are downsizing to a new abode and have lots of items that just won't fit into the new location.  we would LOVE to give these away to someone else who can continue to make good use of them! 
+We are downsizing to a new abode and have lots of items that just won't fit into the new location.  We would LOVE to give these away to someone else who can continue to make good use of them! 
 
-Patti & Robin
+Patti & Robin  ([plock@stlawu.edu](mailto:plock@stlawu.edu))
 
 
 Click on any image to enlarge or scroll through them. 
@@ -18,7 +18,7 @@ Click on any image to enlarge or scroll through them.
 
 ![Desk/Art table - Large table/desk with storage underneath, some dings but can serve lots of purposes.](graphics/ArtTable.jpg){group="row1"} 
 
-![Queen Bed (with Headboard)](graphics/QueenBed.jpg){group="row1"} 
+![Double Bed (with bookcase/headboard)](graphics/DoubleBed.jpg){group="row1"} 
 
 ![China Display Cabinet  -in great shape](graphics/China.jpg){group="row1"} 
 
@@ -40,5 +40,9 @@ Click on any image to enlarge or scroll through them.
 
 ![Green Recliner](graphics/GreenRecliner.jpg){group="row1"} 
 
+![Platform King Bed frame (Wood) - still in the origina box - never used!](graphics/BedFrame.jpg){group="row1"} 
+
 
 :::
+
+We also have another double bed and a twin bed (each with mattress, box springs, and metal frame) and we'll have more to add in the future...
