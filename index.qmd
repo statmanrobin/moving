@@ -25,9 +25,9 @@ Click on any image to enlarge or scroll through them.
 ![Refrigerator (with top freezer)](graphics/Fridge.jpg){group="row1"} 
 
 
-![Lift Chair/Recliner - TChair plugs in and helps someone with mobility issues stand up. Originally expensive!  No longer needed](graphics/LiftChair.jpg){group="row1"} 
+![Lift Chair/Recliner - Chair plugs in and helps someone with mobility issues stand up. Originally expensive!  No longer needed](graphics/LiftChair.jpg){group="row1"} 
 
-![Antique Sofa (with two matching chairs) Set was a wedding present to Patti’s grandparents in 1918! Amazingly, all three are in great shape and very comfortable!](graphics/Sofa1.jpg){group="row1"}
+![Antique Sofa (with two matching chairs) Set was a wedding present to Patti’s grandparents in 1918! Amazingly, all three are in good shape and very comfortable!](graphics/Sofa1.jpg){group="row1"}
 
 
 ![Antique Chair 1](graphics/ChairGreen.jpg){group="row1"}
@@ -36,11 +36,11 @@ Click on any image to enlarge or scroll through them.
 
 ![King Bed - Only 6 years old with infrequent use - in great shape](graphics/King.jpg){group="row1"} 
 
-![Green Sofa - low profile, very comfortable (matches green recliner)](graphics/GreenSofa.jpg){group="row1"} 
+![Green Sofa - low profile, comfortable (matches green recliner)](graphics/GreenSofa.jpg){group="row1"} 
 
 ![Green Recliner](graphics/GreenRecliner.jpg){group="row1"} 
 
-![Platform King Bed frame (Wood) - still in the origina box - never used!](graphics/BedFrame.jpg){group="row1"} 
+![Platform King Bed frame (Wood) - still in the original box - never used!](graphics/BedFrame.jpg){group="row1"} 
 
 
 :::
