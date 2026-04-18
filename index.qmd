@@ -36,9 +36,9 @@ Click on any image to enlarge or scroll through them.
 
 ![King Bed - Only 6 years old with infrequent use - in great shape](graphics/King.jpg){group="row1"} 
 
-![Green Sofa - low profile, comfortable (matches green recliner)](graphics/GreenSofa.jpg){group="row1"} 
+![~~Green Sofa~~ GONE- low profile, comfortable (matches green chair)](graphics/GreenSofa.jpg){group="row1"} 
 
-![Green Chair](graphics/GreenRecliner.jpg){group="row1"} 
+![~~Green Chair~~ GONE](graphics/GreenRecliner.jpg){group="row1"} 
 
 ![~~Platform King Bed frame (Wood)~~ GONE - still in the original box - never used!](graphics/BedFrame.jpg){group="row1"} 
 
