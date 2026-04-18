@@ -14,13 +14,13 @@ Click on any image to enlarge or scroll through them.
 
 ::: {layout-ncol=3}
 
-![L-shaped Bar This is a GORGEOUS full bar. Sadly, we are downsizing and can’t fit it.](graphics/Bar.jpg){group="row1"} 
+![L-shaped Bar -This is a GORGEOUS full bar. Sadly, we are downsizing and can’t fit it.](graphics/Bar.jpg){group="row1"} 
 
 ![Desk/Art table - Large table/desk with storage underneath, some dings but can serve lots of purposes.](graphics/ArtTable.jpg){group="row1"} 
 
 ![~~Double Bed (with bookcase/headboard)~~ GONE](graphics/DoubleBed.jpg){group="row1"} 
 
-![China Display Cabinet  -in great shape](graphics/China.jpg){group="row1"} 
+![~~China Display Cabinet  -in great shape~~ GONE](graphics/China.jpg){group="row1"} 
 
 ![Refrigerator (with top freezer)](graphics/Fridge.jpg){group="row1"} 
 
@@ -34,7 +34,7 @@ Click on any image to enlarge or scroll through them.
 
 ![~~Antique Chair 2~~ GONE](graphics/ChairRed.jpg){group="row1"}
 
-![King Bed - Only 6 years old with infrequent use - in great shape](graphics/King.jpg){group="row1"} 
+![~~King Bed~~ GONE - Only 6 years old with infrequent use - in great shape](graphics/King.jpg){group="row1"} 
 
 ![~~Green Sofa~~ GONE- low profile, comfortable (matches green chair)](graphics/GreenSofa.jpg){group="row1"} 
 
